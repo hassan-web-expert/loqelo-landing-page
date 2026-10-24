@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Loqelo — Wszystko, czego potrzebuje Twoje miejsce",
+    "description": "Loqelo łączy Cię z zaufanymi wykonawcami usług dla domu, ogrodu i biura. Opisz potrzebę, otrzymaj oferty, wybierz najlepszą. Start w lutym 2027 — zapisz się na listę oczekujących.",
+    "ogAlt": "Loqelo — usługi dla domu, ogrodu i biura"
+  },
+  "nav": {
+    "howItWorks": "Jak to działa",
+    "launch": "Start",
+    "waitlist": "Lista oczekujących",
+    "joinWaitlist": "Zapisz się",
+    "language": "Język",
+    "home": "Strona główna Loqelo"
+  },
+  "hero": {
+    "eyebrow": "Przed startem · Dom · Ogród · Biuro",
+    "title": "Wszystko, czego potrzebuje Twoje miejsce.",
+    "subtitle": "Opisz, czego potrzebujesz — Loqelo połączy Cię z lokalnymi wykonawcami, którzy prześlą Ci oferty, abyś mógł wybrać z pewnością.",
+    "ctaCustomer": "Jestem klientem",
+    "ctaProvider": "Jestem wykonawcą",
+    "trust": "Start w lutym 2027 · Dostępne w [TBD] krajach",
+    "videoLabel": "Obejrzyj film Loqelo",
+    "videoUnavailable": "Film Loqelo już wkrótce.",
+    "screensLabel": "Podgląd platformy Loqelo",
+    "screenAlts": [
+      "Ekran aplikacji Loqelo do opisania potrzeby",
+      "Ekran aplikacji Loqelo z ofertami wykonawców",
+      "Ekran aplikacji Loqelo z listą dopasowanych wykonawców w pobliżu"
+    ]
+  },
+  "marquee": {
+    "label": "Usługi w Loqelo",
+    "items": ["Sprzątanie", "Ogrodnictwo", "Hydraulika", "Elektryka", "Malowanie", "Przeprowadzki", "Złota rączka", "Obsługa biura", "Architektura krajobrazu", "Remonty", "Naprawa AGD", "Dezynsekcja"]
+  },
+  "how": {
+    "eyebrow": "Jak to działa",
+    "title": "Od potrzeby do realizacji w czterech prostych krokach.",
+    "steps": [
+      { "title": "Opisz potrzebę", "body": "Powiedz nam, co trzeba zrobić w domu, ogrodzie lub biurze — w kilku słowach lub ze zdjęciami." },
+      { "title": "Otrzymaj dopasowanie", "body": "Loqelo przekaże Twoje zlecenie odpowiednim wykonawcom w Twojej okolicy." },
+      { "title": "Odbierz oferty", "body": "Wykonawcy przesyłają oferty, a Ty porównujesz cenę, termin i opinie w jednym miejscu." },
+      { "title": "Wybierz wykonawcę", "body": "Wybierz ofertę, która najbardziej Ci odpowiada — bez niekończących się telefonów." }
+    ]
+  },
+  "countdown": {
+    "eyebrow": "Odliczanie do startu",
+    "title": "Loqelo startuje w lutym 2027.",
+    "body": "Zapisz się teraz i bądź wśród pierwszych z dostępem.",
+    "days": "Dni",
+    "hours": "Godziny",
+    "minutes": "Minuty",
+    "seconds": "Sekundy",
+    "srLabel": "Czas pozostały do startu 1 lutego 2027"
+  },
+  "waitlist": {
+    "eyebrow": "Lista oczekujących",
+    "title": "Bądź pierwszy w kolejce.",
+    "subtitle": "Zapisz się jako klient lub jako wykonawca. Napiszemy do Ciebie tylko w sprawie startu i ważnych aktualizacji.",
+    "customer": {
+      "title": "Dla klientów",
+      "body": "Uzyskaj wczesny dostęp i znajdź właściwą pomoc dla swojego miejsca.",
+      "countryLabel": "Kraj zamieszkania",
+      "typeLabel": "Zapisuję się jako",
+      "submit": "Dołącz jako klient"
+    },
+    "provider": {
+      "title": "Dla wykonawców",
+      "body": "Docieraj do nowych klientów od pierwszego dnia. Dołącz przed startem.",
+      "countryLabel": "Kraj, w którym świadczysz usługi",
+      "typeLabel": "Działam jako",
+      "submit": "Dołącz jako wykonawca"
+    },
+    "emailLabel": "Adres e-mail",
+    "emailPlaceholder": "ty@przyklad.pl",
+    "countryPlaceholder": "Wybierz kraj",
+    "optional": "opcjonalnie",
+    "types": {
+      "individual": "Osoba prywatna",
+      "business": "Firma"
+    },
+    "consent": "Wyrażam zgodę na otrzymywanie e-maili od Loqelo dotyczących startu i aktualizacji produktu. Mogę zrezygnować w dowolnym momencie. Zobacz",
+    "privacyLink": "politykę prywatności",
+    "submitting": "Zapisywanie…",
+    "successTitle": "Jesteś na liście",
+    "successBody": "Jesteś na liście — odezwiemy się przed startem.",
+    "again": "Zapisz inny adres e-mail",
+    "errors": {
+      "required": "To pole jest wymagane.",
+      "invalidEmail": "Podaj prawidłowy adres e-mail.",
+      "invalidCountry": "Wybierz kraj.",
+      "consent": "Potwierdź zgodę na otrzymywanie e-maili o starcie.",
+      "rateLimited": "Zbyt wiele prób. Spróbuj ponownie za kilka minut.",
+      "server": "Coś poszło nie tak. Spróbuj ponownie."
+    }
+  },
+  "footer": {
+    "blurb": "Loqelo łączy klientów z zaufanymi wykonawcami usług dla domu, ogrodu i biura. Start w lutym 2027.",
+    "privacy": "Polityka prywatności",
+    "cookies": "Ustawienia cookies",
+    "contact": "Kontakt",
+    "rights": "Wszelkie prawa zastrzeżone."
+  },
+  "consent": {
+    "title": "Twoja prywatność",
+    "body": "Używamy opcjonalnych cookies analitycznych (Google Analytics), aby wiedzieć, ile osób nas odwiedza i z jakich krajów. Dane z formularzy nigdy nie trafiają do analityki.",
+    "accept": "Akceptuję analitykę",
+    "decline": "Odrzuć",
+    "more": "Dowiedz się więcej"
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: [TBD]",
+    "back": "Powrót na stronę główną",
+    "sections": [
+      { "heading": "Kim jesteśmy", "body": "Loqelo ([TBD nazwa i adres podmiotu]) jest administratorem danych osobowych zbieranych w serwisie loqelo.com." },
+      { "heading": "Jakie dane zbieramy", "body": "Przy zapisie na listę oczekujących zbieramy Twój adres e-mail, kraj, informację, czy zapisujesz się jako klient czy wykonawca, opcjonalny typ (osoba prywatna/firma), język oraz moment wyrażenia zgody." },
+      { "heading": "W jakim celu", "body": "Używamy tych danych wyłącznie, aby informować Cię o starcie Loqelo i ważnych aktualizacjach, na podstawie Twojej zgody. Możesz ją wycofać w każdej chwili, klikając link rezygnacji w e-mailu lub kontaktując się z nami." },
+      { "heading": "Analityka", "body": "Jeśli zaakceptujesz cookies analityczne, używamy Google Analytics 4 do mierzenia odwiedzin, krajów i konwersji zapisów. Treść formularzy, np. adres e-mail, nigdy nie jest przesyłana do analityki. Jeśli odmówisz, skrypty analityczne nie są ładowane." },
+      { "heading": "Podmioty przetwarzające", "body": "Kontakty z listy oczekujących przechowujemy u dostawcy e-mail ([TBD — np. Brevo]), a stronę hostuje Vercel. Oba podmioty przetwarzają dane w naszym imieniu." },
+      { "heading": "Twoje prawa", "body": "Masz prawo do dostępu, sprostowania, usunięcia i przeniesienia danych oraz do złożenia skargi do organu ochrony danych. Skontaktuj się z nami pod adresem poniżej." }
+    ]
+  }
+}

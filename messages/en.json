@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Loqelo — Everything your place needs",
+    "description": "Loqelo connects you with trusted home, garden and office service providers. Describe your need, receive offers, choose the best fit. Launching February 2027 — join the waitlist.",
+    "ogAlt": "Loqelo — home, garden and office services"
+  },
+  "nav": {
+    "howItWorks": "How it works",
+    "launch": "Launch",
+    "waitlist": "Waitlist",
+    "joinWaitlist": "Join waitlist",
+    "language": "Language",
+    "home": "Loqelo home"
+  },
+  "hero": {
+    "eyebrow": "Pre-launch · Home · Garden · Office",
+    "title": "Everything your place needs.",
+    "subtitle": "Describe what you need once — Loqelo matches you with local service providers who send you offers, so you can choose with confidence.",
+    "ctaCustomer": "I'm a customer",
+    "ctaProvider": "I'm a service provider",
+    "trust": "Launching February 2027 · Available in [TBD] countries",
+    "videoLabel": "Watch the Loqelo film",
+    "videoUnavailable": "The Loqelo film is coming soon.",
+    "screensLabel": "Preview of the Loqelo platform",
+    "screenAlts": [
+      "Loqelo app screen for describing your service need",
+      "Loqelo app screen showing offers from service providers",
+      "Loqelo app screen listing matched providers nearby"
+    ]
+  },
+  "marquee": {
+    "label": "Services on Loqelo",
+    "items": ["Cleaning", "Gardening", "Plumbing", "Electrical", "Painting", "Moving", "Handyman", "Office maintenance", "Landscaping", "Renovation", "Appliance repair", "Pest control"]
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From need to done, in four simple steps.",
+    "steps": [
+      { "title": "Describe your need", "body": "Tell us what needs doing at your home, garden or office — in a few words or with photos." },
+      { "title": "Get matched", "body": "Loqelo connects your request with relevant service providers in your area." },
+      { "title": "Receive offers", "body": "Providers send you their offers, so you can compare price, timing and reviews side by side." },
+      { "title": "Choose your provider", "body": "Pick the offer that fits you best and get the job done — no endless calls or chasing." }
+    ]
+  },
+  "countdown": {
+    "eyebrow": "Launch countdown",
+    "title": "Loqelo goes live in February 2027.",
+    "body": "Join the waitlist now and be among the first to get access.",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "srLabel": "Time remaining until launch on 1 February 2027"
+  },
+  "waitlist": {
+    "eyebrow": "Waitlist",
+    "title": "Be first in line.",
+    "subtitle": "Sign up as a customer or as a service provider. We'll only email you about the launch and important updates.",
+    "customer": {
+      "title": "For customers",
+      "body": "Get early access and find the right help for your place.",
+      "countryLabel": "Country of residence",
+      "typeLabel": "I am signing up as",
+      "submit": "Join as a customer"
+    },
+    "provider": {
+      "title": "For service providers",
+      "body": "Reach new clients from day one. Join before launch.",
+      "countryLabel": "Country where you provide services",
+      "typeLabel": "I operate as",
+      "submit": "Join as a provider"
+    },
+    "emailLabel": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "countryPlaceholder": "Select a country",
+    "optional": "optional",
+    "types": {
+      "individual": "Individual",
+      "business": "Business"
+    },
+    "consent": "I agree to receive emails from Loqelo about the launch and product updates. I can unsubscribe at any time. See the",
+    "privacyLink": "privacy policy",
+    "submitting": "Joining…",
+    "successTitle": "You're on the list",
+    "successBody": "You're on the list — we'll be in touch before launch.",
+    "again": "Sign up another email",
+    "errors": {
+      "required": "This field is required.",
+      "invalidEmail": "Please enter a valid email address.",
+      "invalidCountry": "Please select a country.",
+      "consent": "Please confirm you agree to receive launch emails.",
+      "rateLimited": "Too many attempts. Please try again in a few minutes.",
+      "server": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "blurb": "Loqelo connects customers with trusted service providers for the home, garden and office. Launching February 2027.",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie settings",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "consent": {
+    "title": "Your privacy",
+    "body": "We use optional analytics cookies (Google Analytics) to understand how many people visit and which countries they come from. No form data is ever shared with analytics.",
+    "accept": "Accept analytics",
+    "decline": "Decline",
+    "more": "Learn more"
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: [TBD]",
+    "back": "Back to home",
+    "sections": [
+      { "heading": "Who we are", "body": "Loqelo ([TBD legal entity name and address]) is the controller of the personal data collected on loqelo.com." },
+      { "heading": "What we collect", "body": "When you join the waitlist we collect your email address, country, whether you sign up as a customer or a service provider, the optional individual/business type, your language and the time you gave consent." },
+      { "heading": "Why we collect it", "body": "We use this data only to inform you about the Loqelo launch and important product updates, based on your consent. You can withdraw consent at any time using the unsubscribe link in every email or by contacting us." },
+      { "heading": "Analytics", "body": "If you accept analytics cookies, we use Google Analytics 4 to measure visits, countries and sign-up conversion. Form contents such as your email address are never sent to analytics. If you decline, no analytics scripts are loaded." },
+      { "heading": "Processors", "body": "Waitlist contacts are stored with our email provider ([TBD — e.g. Brevo]) and the website is hosted by Vercel. Both act as data processors on our behalf." },
+      { "heading": "Your rights", "body": "You have the right to access, correct, delete or export your data and to lodge a complaint with your data protection authority. Contact us at the email address below." }
+    ]
+  }
+}
